@@ -1,0 +1,52 @@
+body {
+    font-family: 'Montserrat', sans-serif;  
+    background-color: rgb(250, 250, 250);
+}
+
+.navbar {
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* dcz is dacodaz generalised CSS rule */
+.dcz-shadow {
+    box-shadow: 0 0 50px rgb(0, 0, 0, 0.15);
+}
+
+/* 🤵🏻‍♂️Example:  to make a zoom transition on hover */
+#example {
+    transition: transform 0.5s;
+}
+
+#example:hover {
+    -ms-transform: scale(1.05);
+    -webkit-transform: scale(1.05); 
+    transform: scale(1.05); 
+}
+
+
+
+
+/* 👇🏻for mobile size */
+@media (max-width: 767px) {
+
+
+}
+
+
+
+/* ❤️made with love by dacodaz 13 Nov 2023 Hackathon SIM UOL CSSC 🎓 Desmond, Alex, Vanness, Fukutaro, Cull */
